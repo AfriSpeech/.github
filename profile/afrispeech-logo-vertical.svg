@@ -7,7 +7,7 @@
   </defs>
   
   <!-- Icon: speech bubble + waves (centered) -->
-  <g transform="translate(35,5)">
+  <g transform="translate(61,5)">
     <!-- Bubble -->
     <rect x="0" y="0" width="90" height="70" rx="16" fill="url(#g)"/>
     <polygon points="15,68 8,90 30,66" fill="url(#g)"/>
