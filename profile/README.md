@@ -17,9 +17,3 @@ We welcome contributions from developers, linguists, and researchers working on 
 - Help improve [afriso](https://github.com/AfriSpeech/afriso) language data — especially alternative names and corrections from native speakers
 - Open an issue or PR on any of our repositories
 
-## Related Communities
-
-- [Masakhane](https://github.com/masakhane-io) - Machine translation for African languages
-- [GhanaNLP](https://github.com/GhanaNLP) - NLP for Ghanaian languages
-- [HausaNLP](https://github.com/hausanlp) - NLP for Hausa and African languages
-- [Niger-Volta-LTI](https://github.com/Niger-Volta-LTI) - Language technology for West African languages
