@@ -17,4 +17,5 @@ We welcome contributions from developers, linguists, and researchers working on 
 - Browse our [awesome-africa-nlp](https://github.com/AfriSpeech/awesome-africa-nlp) list and contribute missing projects
 - Help improve [afriso](https://github.com/AfriSpeech/afriso) language data — especially alternative names and corrections from native speakers
 - Open an issue or PR on any of our repositories
+- Email us at afrispeech@gmail.com
 
