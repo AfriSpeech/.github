@@ -1,4 +1,4 @@
-# AfriSpeech
+# AfriSpeech Community
 
 Building open-source NLP tools for African languages.
 
