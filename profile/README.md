@@ -8,6 +8,7 @@ We believe every African language deserves representation in AI. Our projects ma
 
 - [afriso](https://github.com/AfriSpeech/afriso) - Map African language names to ISO 639-3 codes, countries, families, and alternative names. 2,264 languages covered.
 - [awesome-africa-nlp](https://github.com/AfriSpeech/awesome-africa-nlp) - Curated list of open-source NLP projects for African languages.
+- [african-nlp-communities](https://github.com/AfriSpeech/african-nlp-communities) - Directory of NLP communities and organizations working on African languages.
 
 ## Get Involved
 
