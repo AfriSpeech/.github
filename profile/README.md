@@ -6,9 +6,11 @@ We believe every African language deserves representation in AI. Our projects ma
 
 ## Featured Projects
 
-- [afriso](https://github.com/AfriSpeech/afriso) - Map African language names to ISO 639-3 codes, countries, families, and alternative names. 2,264 languages covered.
-- [awesome-africa-nlp](https://github.com/AfriSpeech/awesome-africa-nlp) - Curated list of open-source NLP projects for African languages.
-- [african-nlp-communities](https://github.com/AfriSpeech/african-nlp-communities) - Directory of NLP communities and organizations working on African languages.
+Our three most-starred repositories.
+
+- [africa-corpus-builder](https://github.com/AfriSpeech/africa-corpus-builder) — Get access to monolingual and parallel data for 693 African languages (14★)
+- [africa-g2p](https://github.com/AfriSpeech/africa-g2p) — Rule-based grapheme-to-phoneme (G2P) for 400+ African languages (14★)
+- [afrispeech-selector](https://github.com/AfriSpeech/afrispeech-selector) — Easy access to speech data across 142 African languages for training TTS and ASR models. (14★)
 
 ## Get Involved
 
