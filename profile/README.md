@@ -17,7 +17,7 @@ Our three most-starred repositories.
 We welcome contributions from developers, linguists, and researchers working on African language technology.
 
 - Browse our [awesome-africa-nlp](https://github.com/AfriSpeech/awesome-africa-nlp) list and contribute missing projects
-- Help improve [afriso](https://github.com/AfriSpeech/afriso) language data — especially alternative names and corrections from native speakers
+- Add your community to [african-nlp-communities](https://github.com/AfriSpeech/african-nlp-communities), our directory of groups working on African languages
 - Open an issue or PR on any of our repositories
 - Email us at afrispeech@gmail.com
 
